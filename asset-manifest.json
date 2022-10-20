@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.30e9200f.css",
-    "main.js": "/react-portfolio/static/js/main.bc259f19.js",
+    "main.js": "/react-portfolio/static/js/main.fef48ca8.js",
+    "static/media/photo.jpg": "/react-portfolio/static/media/photo.30752221eaa0fa8a262f.jpg",
     "static/media/MoodyGamer.png": "/react-portfolio/static/media/MoodyGamer.ec77cc11c1c791012b02.png",
     "static/media/AnimeBlog.png": "/react-portfolio/static/media/AnimeBlog.b44955d5c2b6bcf4535e.png",
-    "static/media/me.png": "/react-portfolio/static/media/me.7c1fede7609c647c76ba.png",
     "static/media/hero.png": "/react-portfolio/static/media/hero.70d9ef222e4c20553272.png",
     "static/media/techres.pdf": "/react-portfolio/static/media/techres.5a2703d4c3393e994c73.pdf",
     "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.707eddf258763112398e.png",
@@ -13,10 +13,10 @@
     "static/media/MakeREADME.png": "/react-portfolio/static/media/MakeREADME.f6e464444445faac3c3e.png",
     "index.html": "/react-portfolio/index.html",
     "main.30e9200f.css.map": "/react-portfolio/static/css/main.30e9200f.css.map",
-    "main.bc259f19.js.map": "/react-portfolio/static/js/main.bc259f19.js.map"
+    "main.fef48ca8.js.map": "/react-portfolio/static/js/main.fef48ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.30e9200f.css",
-    "static/js/main.bc259f19.js"
+    "static/js/main.fef48ca8.js"
   ]
 }
