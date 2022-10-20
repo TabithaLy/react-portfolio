@@ -1,6 +1,6 @@
 import React from 'react';
 import '../utils/main.css';
-import pfp from '../utils/images/me.png';
+import pfp from '../utils/images/photo.jpg';
 
 export default function About() {
   return (
