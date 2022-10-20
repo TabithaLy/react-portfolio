@@ -1,11 +1,12 @@
 import React from 'react';
 import '../utils/main.css';
-import techres from '../utils/images/techres.pdf';
+// import techres from '../utils/images/techres.pdf';
+import techResume from '../utils/images/techResume.pdf';
 
 export default function Resume() {
   return (
     <div className="page">
-      <a download="techres.pdf" href={techres}><h2>Resume</h2></a>
+      <a download="techResume.pdf" href={techResume}><h2>Resume</h2></a>
       <h3>Front-End</h3>
       <ul>
         <li>HTML5</li>

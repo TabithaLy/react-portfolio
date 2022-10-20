@@ -14,6 +14,11 @@ function Footer() {
                     <i className="fa-brands fa-linkedin fa-2xl"></i>
                 </a>
             </div>
+            <div>
+                <a href="mailto:spencersalmon.tabitha@gmail.com" >
+                    <i className="fa-solid fa-envelope fa-2xl"></i>
+                </a>
+            </div>
         </footer>
     );
 }

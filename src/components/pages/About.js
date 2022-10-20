@@ -12,8 +12,7 @@ export default function About() {
         </div>
         <div className='col'>
           <p>
-            My name is Tabitha Spencer-Salmon. I am a fullstack web developer with a significant background in biological sciences. I am proficient at HTML5, CSS, JavaScripe, Node, MySQL, JQuery, React, MongoDB, and various CSS frameworks.
-          </p>
+          My name is Tabitha Spencer-Salmon. I am full-stack web-developer with significant background in biological sciences. I am freshly graduated from the University of Pennsylania's full-time coding bootcamp, through which I learned and became proficient at HTML5, CSS, JavaScript, Node, MySQL, JQuery, React, MongoDB, and various CSS frameworks. Moreover, I am confident that I have the tools, interest, and ability to learn any new technology that may be recquired of me as I move through my professional journey.         </p>
         </div>
       </div>
     </div>

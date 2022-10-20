@@ -10,7 +10,7 @@ export default function Contact() {
   const handleFormSubmit = (e) => {
     e.preventDefault();
     if (!validateEmail(email)) {
-      setErrorMessage('Email or username is invalid');
+      setErrorMessage('Contact Form is down at the moment - Please contact me through email link at the bottom');
       return;
     }
     setEmail('');
