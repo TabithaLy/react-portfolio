@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.30e9200f.css",
-    "main.js": "/react-portfolio/static/js/main.15a61cb3.js",
+    "main.css": "/react-portfolio/static/css/main.d4debbf8.css",
+    "main.js": "/react-portfolio/static/js/main.b442c34f.js",
+    "static/media/OSBS.png": "/react-portfolio/static/media/OSBS.7adc1c6b6fab3e5e50f7.png",
     "static/media/photo.jpg": "/react-portfolio/static/media/photo.30752221eaa0fa8a262f.jpg",
     "static/media/MoodyGamer.png": "/react-portfolio/static/media/MoodyGamer.ec77cc11c1c791012b02.png",
     "static/media/AnimeBlog.png": "/react-portfolio/static/media/AnimeBlog.b44955d5c2b6bcf4535e.png",
@@ -10,13 +11,12 @@
     "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.707eddf258763112398e.png",
     "static/media/EmployeeTracker.png": "/react-portfolio/static/media/EmployeeTracker.4b8790535fae4a4042a3.png",
     "static/media/ProfileGenerator.png": "/react-portfolio/static/media/ProfileGenerator.8f5875246271fec59725.png",
-    "static/media/MakeREADME.png": "/react-portfolio/static/media/MakeREADME.f6e464444445faac3c3e.png",
     "index.html": "/react-portfolio/index.html",
-    "main.30e9200f.css.map": "/react-portfolio/static/css/main.30e9200f.css.map",
-    "main.15a61cb3.js.map": "/react-portfolio/static/js/main.15a61cb3.js.map"
+    "main.d4debbf8.css.map": "/react-portfolio/static/css/main.d4debbf8.css.map",
+    "main.b442c34f.js.map": "/react-portfolio/static/js/main.b442c34f.js.map"
   },
   "entrypoints": [
-    "static/css/main.30e9200f.css",
-    "static/js/main.15a61cb3.js"
+    "static/css/main.d4debbf8.css",
+    "static/js/main.b442c34f.js"
   ]
 }
