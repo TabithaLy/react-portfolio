@@ -13,6 +13,7 @@ export default function Project(props) {
                         <img src={card.image} alt={card.title} />
                         <a href={card.linkg} className="card-link">{card.linkg}</a>
                         <a href={card.linkd} className="card-link">{card.linkd}</a>
+                        <p>{card.description}</p>
                     </div>
                 </div>
             ))}
