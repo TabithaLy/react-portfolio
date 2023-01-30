@@ -44,12 +44,14 @@ export default function Portfolio() {
       image: EmployeeTracker,
       title: 'Employee Tracker',
       linkg: 'https://github.com/TabithaLy/employee-tracker',
-      description: 'The purpose of this challenge is to build a command line application from scratch to manage a companys employee database, using Node.js, Inquirer, and MySQL.'
+      linkd: 'https://drive.google.com/file/d/12UlEXIVPPGB9BVs0mAf7I7vzAUmuN0qp/view',
+      description: 'The purpose of this challenge is to build a command line application from scratch to manage the employee database for a company using Node.js, Inquirer, and MySQL.'
     },
     {
       image: ProfileGenerator,
       title: 'Profile Generator',
       linkg: 'https://github.com/TabithaLy/team-profile-generator',
+      linkd: 'https://drive.google.com/file/d/1R42LpxedQH1jxAZIZC_-I66nwSYqQhuR/view',
       description: 'The purpose of this project was to dynamically generate an HTML document that displays team member information provided by user input into the command line.'
     },
   ]
